@@ -1,0 +1,136 @@
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Consola.exe
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Consola.deps.json
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Consola.runtimeconfig.json
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Consola.runtimeconfig.dev.json
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Consola.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Consola.pdb
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Consola.csprojAssemblyReference.cache
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Consola.AssemblyInfoInputs.cache
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Consola.AssemblyInfo.cs
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Consola.csproj.CoreCompileInputs.cache
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Consola.csproj.CopyComplete
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Consola.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Consola.pdb
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Consola.genruntimeconfig.cache
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Dominio.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Persistencia.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Persistencia.pdb
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Dominio.pdb
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Consola.exe
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Consola.deps.json
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Consola.runtimeconfig.json
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Consola.runtimeconfig.dev.json
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Consola.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Consola.pdb
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Dominio.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Persistencia.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Persistencia.pdb
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Dominio.pdb
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Consola.csprojAssemblyReference.cache
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Consola.AssemblyInfoInputs.cache
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Consola.AssemblyInfo.cs
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Consola.csproj.CopyComplete
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Consola.dll
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Consola.pdb
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Consola.csproj.CoreCompileInputs.cache
+E:\MISION TIC\CICLO3 PROGRAMACION\ejercicio_base_ciclo3_MT-main\ProyectoCiclo3.App.Consola\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Consola.genruntimeconfig.cache
