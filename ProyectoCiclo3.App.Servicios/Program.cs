@@ -14,8 +14,9 @@ namespace ProyectoCiclo3.App.Servicios
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
+            
         }
-
+writeline("HOLACOMPAÑEROS");
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
