@@ -1,0 +1,22 @@
+@page
+@model ProyectoCiclo3.App.Frontend.Pages.EditUsuarioModel
+@{
+    var Usuario = Model.Usuario;
+}
+ 
+<div class="text-center">
+<form action="">
+  <label for="id" class="form-label">id:</label>
+  <input type="number" class="form-control" id="id" name="id" placeholder="id" asp-for="@Usuario.id">
+  <label for="nombre" class="form-label">nombre:</label>
+  <input type="text" class="form-control" id="nombre" name="nombre" placeholder="nombre" asp-for="@Usuario.nombre">
+  <label for="apellido" class="form-label">apellido:</label>
+  <input type="text" class="form-control" id="apellido" name="apellido" placeholder="apellido" asp-for="@Usuario.apellido">
+  <label for="direccion" class="form-label">direccion:</label>
+  <input type="text" class="form-control" id="direccion" name="direccion" placeholder="direccion" asp-for="@Usuario.direccion">
+  <label for="telefono" class="form-label">telefono:</label>
+  <input type="text" class="form-control" id="telefono" name="telefono" placeholder="telefono" asp-for="@Usuario.telefono">
+  <hr>
+  <button type="submit" class="btn btn-success">Enviar</button>
+</form>
+</div>
