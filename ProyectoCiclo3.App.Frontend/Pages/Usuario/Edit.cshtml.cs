@@ -12,6 +12,7 @@ namespace ProyectoCiclo3.App.Frontend.Pages
     public class EditUsuarioModel : PageModel
     {
        private readonly RepositorioUsuario repositorioUsuario;
+       [BindProperty]
               public Usuario Usuario {get;set;}
  
         public EditUsuarioModel(RepositorioUsuario repositorioUsuario)
@@ -24,6 +25,19 @@ namespace ProyectoCiclo3.App.Frontend.Pages
                 Usuario=repositorioUsuario.GetUsuarioWithId(UsuarioId);
                 return Page();
  
+        }
+
+        public IActionResult OnPost()
+        {
+            if(!ModelState.IsValid)
+            {
+                return Page();
+            }
+            if(Usuario.id>0)
+            {
+            Usuario = repositorioUsuario.Update(Usuario);
+            }
+            return RedirectToPage("./List");
         }
     }
 }
