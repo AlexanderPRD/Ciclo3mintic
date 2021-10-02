@@ -32,7 +32,7 @@ namespace ProyectoCiclo3.App.Persistencia.AppRepositorios
 
             var user= Usuario.SingleOrDefault(b => b.id == newUsuario.id);
 
-            if(usuario != null){
+            if(user != null){
                 user.nombre = newUsuario.nombre;
                 user.apellido = newUsuario.apellido;
                 user.direccion = newUsuario.direccion;
@@ -40,6 +40,16 @@ namespace ProyectoCiclo3.App.Persistencia.AppRepositorios
                 // user.ciudad = newUsuario.ciudad;
             }
         return user;
+        }
+        public Usuario Create(Usuario newUsuario)
+        {
+           if(Usuario.Count > 0){
+           newUsuario.id=Usuario.Max(r => r.id) +1; 
+            }else{
+               newUsuario.id = 1; 
+            }
+           Usuario.Add(newUsuario);
+           return newUsuario;
         }
 
     }
