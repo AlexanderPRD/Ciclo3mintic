@@ -51,6 +51,14 @@ namespace ProyectoCiclo3.App.Persistencia.AppRepositorios
            Usuario.Add(newUsuario);
            return newUsuario;
         }
+        public void Delete(int id)
+        {
+        var user= Usuario.SingleOrDefault(b => b.id == id);
+        Usuario.Remove(user);
+        return;
+        }
+
+
 
     }
 }

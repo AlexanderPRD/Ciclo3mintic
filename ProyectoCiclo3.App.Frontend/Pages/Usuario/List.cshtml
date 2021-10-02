@@ -27,8 +27,11 @@
             <td>
               <a class="btn btn-info" asp-page="./Details" asp-route-UsuarioId="@Usuario.id"><i class="fas fa-adjust"></i>Ver</a>
               <a class="btn btn-info" asp-page="./Edit" asp-route-usuarioId="@Usuario.id">Editar</a>
-              <a class="btn btn-danger" href="">Eliminar</a>
-              </td>
+              <form method="POST">
+                <input type="number" class="form-control d-none" id="id" name="id" placeholder="id" asp-for="@Usuario.id">
+                <button type="submit"class="btn btn-danger" href="">Eliminar</button>
+              </form>
+            </td>
         </tr>
     }
 </table>
