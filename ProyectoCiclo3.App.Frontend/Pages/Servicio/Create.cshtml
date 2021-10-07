@@ -1,16 +1,21 @@
-@* @page
+@page
+@model ProyectoCiclo3.App.Frontend.Pages.FormServicioModel
 @{
 }
- 
-<div class="text-center">
-<form action="">
-  <label for="nombre" class="form-label">Nombre:</label>
-  <input type="text" class="form-control" id="nombre" name="nombre" placeholder="Nombre">
-  <label for="edad" class="form-label">Edad:</label>
-  <input type="number" class="form-control" id="edad" name="edad" placeholder="Edad">
-  <label for="email" class="form-label">Email:</label>
-  <input type="email" class="form-control" id="email" name="email" placeholder="Email">
-  <hr>
-  <button type="submit" class="btn btn-success">Enviar</button>
-</form>
-</div> *@
+  
+  <div class="text-center">
+    <form action="" method="POST">
+      <label for="origen" class="form-label">Origen:</label>
+      <input type="text" class="form-control" id="origen"  placeholder="Origen de encomienda" asp-for="Servicio.origen" required>
+      <label for="destino" class="form-label">Destino:</label>
+      <input type="text" class="form-control" id="destino"  placeholder="Destino de la encomienda" asp-for="Servicio.destino" required>
+      <label for="fecha" class="form-label">Fecha:</label>
+      <input type="date" class="form-control" id="fecha"  placeholder="Fecha de envio " asp-for="Servicio.fecha" required>
+      <label for="hora" class="form-label">Hora:</label>
+      <input type="time" class="form-control" id="hora"  placeholder="Hora de envío" asp-for="Servicio.hora" required> 
+      <label for="encomienda" class="form-label">Encomienda:</label>
+      <input type="text" class="form-control" id="encomienda"  placeholder="Tipo de encomienda" asp-for="Servicio.encomienda" required>
+      <hr>
+      <button type="submit" class="btn btn-success">Enviar</button>
+    </form>
+  </div> 

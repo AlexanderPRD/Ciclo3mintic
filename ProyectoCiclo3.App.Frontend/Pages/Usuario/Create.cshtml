@@ -4,7 +4,7 @@
 }
  
 <div class="text-center">
-<form method="POST">
+<form method="POST"> 
 @* <label for="id" class="form-label">Id:</label>
 
       <input type="number" class="form-control" id="id" placeholder="Id" asp-for="Usuario.id"> *@
@@ -16,8 +16,8 @@
       <input type="text" class="form-control" id="direccion" placeholder="Direccion" asp-for="Usuario.direccion"required>
       <label for="telefono" class="form-label">Telefono:</label>
       <input type="number" class="form-control" id="telefono" placeholder="Telefono" asp-for="Usuario.telefono"required>
-      @* <label for="ciudad" class="form-label">Ciudad:</label>
-      <input type="text" class="form-control" id="ciudad" name="ciudad" placeholder="Ciudad"> *@
+      <label for="ciudad" class="form-label">Ciudad:</label>
+      <input type="text" class="form-control" id="ciudad" name="ciudad" placeholder="Ciudad" asp-for="Usuario.ciudad"required>
       <hr>
       
       <button type="submit" class="btn btn-success">Enviar</button>
