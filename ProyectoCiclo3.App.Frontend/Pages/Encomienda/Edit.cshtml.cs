@@ -6,21 +6,26 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using ProyectoCiclo3.App.Persistencia.AppRepositorios;
 using ProyectoCiclo3.App.Dominio;
-
  
 namespace ProyectoCiclo3.App.Frontend.Pages
 {
-    public class FormEncomiendaModel : PageModel
+    public class EditEncomiendaModel : PageModel
     {
        private readonly RepositorioEncomienda repositorioEncomienda;
        [BindProperty]
               public Encomienda Encomienda {get;set;}
  
-        public FormEncomiendaModel(RepositorioEncomienda repositorioEncomienda)
+        public EditEncomiendaModel(RepositorioEncomienda repositorioEncomienda)
        {
             this.repositorioEncomienda=repositorioEncomienda;
        }
  
+        public IActionResult OnGet(int EncomiendaId)
+        {
+                Encomienda=repositorioEncomienda.GetEncomiendaWithId(EncomiendaId);
+                return Page();
+ 
+        }
 
         public IActionResult OnPost()
         {
@@ -28,10 +33,10 @@ namespace ProyectoCiclo3.App.Frontend.Pages
             {
                 return Page();
             }
-            // if(Encomienda.id>0)
-            // {
-            Encomienda = repositorioEncomienda.Create(Encomienda);
-            
+            if(Encomienda.id>0)
+            {
+            Encomienda = repositorioEncomienda.Update(Encomienda);
+            }
             return RedirectToPage("./List");
         }
     }
