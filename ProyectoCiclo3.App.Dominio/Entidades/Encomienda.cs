@@ -7,5 +7,5 @@ namespace ProyectoCiclo3.App.Dominio{
         public string tipo { get; set; }
         public string presentacion { get; set; }
     }
-
+ 
 }

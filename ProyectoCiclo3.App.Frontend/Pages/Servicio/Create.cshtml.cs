@@ -12,16 +12,28 @@ namespace ProyectoCiclo3.App.Frontend.Pages
 {
     public class FormServicioModel : PageModel
     {
-       private readonly RepositorioServicio RepositorioServicio;
+       private readonly RepositorioServicio repositorioServicio;
+       private readonly RepositorioUsuario repositorioUsuario;
+       private readonly RepositorioEncomienda repositorioEncomienda;
        [BindProperty]
-              public Servicio Servicio {get;set;}
+        public Servicio Servicio {get;set;}
+        public IEnumerable<Usuario> Usuarios {get;set;}
+        public IEnumerable<Encomienda> Encomiendas {get;set;}
  
-        public FormServicioModel(RepositorioServicio RepositorioServicio)
-       {
-            this.RepositorioServicio=RepositorioServicio;
-       }
- 
+        public FormServicioModel(RepositorioServicio repositorioServicio, RepositorioUsuario repositorioUsuario, RepositorioEncomienda repositorioEncomienda)
+        {
+            this.repositorioServicio=repositorioServicio;
+            this.repositorioUsuario=repositorioUsuario;
+            this.repositorioEncomienda=repositorioEncomienda;
+        }
 
+        //Crear metodo OnGet llamando a los GetAll de los repositorios
+        public void OnGet()
+        {
+        Usuarios=repositorioUsuario.GetAll();
+        Encomiendas=repositorioEncomienda.GetAll();
+        }
+        
         public IActionResult OnPost()
         { 
             if(!ModelState.IsValid)

@@ -7,7 +7,7 @@ namespace ProyectoCiclo3.App.Persistencia.AppRepositorios
 {
     public class RepositorioEncomienda
     {
-        List<Encomienda> encomienda;
+        //List<Encomienda> encomienda;
 
         private readonly AppContext _appContext = new AppContext();
 
@@ -44,10 +44,10 @@ namespace ProyectoCiclo3.App.Persistencia.AppRepositorios
         return encomienda;
         }
         public void Delete(int id){
-        var user = _appContext.Encomienda.Find(id);
-        if (user == null)
+        var encomienda = _appContext.Encomienda.Find(id);
+        if (encomienda == null)
             return;
-        _appContext.Encomienda.Remove(user);
+        _appContext.Encomienda.Remove(encomienda);
         _appContext.SaveChanges();
         }
 
