@@ -26,12 +26,13 @@
       <input type="date" class="form-control" id="fecha" placeholder="fecha" asp-for="Servicio.fecha"required>
       <label for="hora" class="form-label">hora:</label>
       <input type="time" class="form-control" id="hora" placeholder="hora" asp-for="Servicio.hora"required>
-      <label for="encomienda" class="form-label"> Encomienda :</label>
+      <label for="encomienda" class="form-label"> Encomienda:</label>
+
       <select asp-for="Servicio.encomienda" class="form-control">
         <option value="">-</option>
         @foreach (var encomienda in Model.Encomienda){
         <option value="@encomienda.id">@encomienda.descripcion @encomienda.peso</option>
-         }
+      }
       </select>
 
      
