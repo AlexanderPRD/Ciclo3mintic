@@ -6,10 +6,13 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using ProyectoCiclo3.App.Persistencia.AppRepositorios;
 using ProyectoCiclo3.App.Dominio;
+using Microsoft.AspNetCore.Authorization;
 
  
 namespace ProyectoCiclo3.App.Frontend.Pages
 {
+    // aqui
+    [Authorize]
     public class FormUsuarioModel : PageModel
     {
        private readonly RepositorioUsuario repositorioUsuario;
