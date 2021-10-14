@@ -21,11 +21,11 @@
     {
         <tr>
             <td>@Servicio.id</td>
-            <td>@Servicio.origen</td>
-            <td>@Servicio.destino</td>
+            <td>@Servicio.origen.nombre</td>
+            <td>@Servicio.destino.nombre</td>
             <td>@Servicio.fecha</td>
             <td>@Servicio.hora</td>
-            <td>@Servicio.encomienda</td>
+            <td>@Servicio.encomienda.descripcion</td>
 
             <td>
               <a class="btn btn-info" asp-page="./Details" asp-route-ServicioId="@Servicio.id"><i class="fas fa-adjust"></i>Ver</a>
